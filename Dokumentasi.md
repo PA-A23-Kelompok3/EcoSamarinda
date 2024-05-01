@@ -6,7 +6,11 @@
 
 > Program ini dibuat dengan menggunakan bahasa pemrograman Python dan mengimplementasikan struktur data Linked List. Aplikasi peminjaman ruang kelas ini juga menggunakan sebuah database, yaitu database MySQL yang digunakan untuk menyimpan data Admin, Informasi, Kegiatan, Komentar, Komunitas, Pelapor, Pengguna
 ---
-### Struktur Project
+## Struktur Project
+
+### Flowchart
+![Flowchart EcoSamarinda](https://github.com/PA-A23-Kelompok3/EcoSamarinda/assets/143193920/21beb8fd-e2c4-47d9-b1bd-4872ec71b8ae)
+
 > 1. Folder Controller, berisi file-file controller yang akan mengatur alur program serta mengambil data dari model dan menampilkan ke view.
 > - File Controller Admin, sebagai file controller yang berisi logika untuk manajemen login akun Admin 
 > - File Controller Komunitas, sebagai file controller yang berisi logika untuk manajemen data Komunitas dalam bentuk linked list, dimana data dalam linked list diambil dari database.
